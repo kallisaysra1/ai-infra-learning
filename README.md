@@ -12,9 +12,12 @@ My personalized learning path bridges the gap between my existing DevOps/Platfor
 - **Phase 5: Enterprise AI Architecture & Strategy (L7 Prep)**
 
 ## 📂 Repository Layout
-*   **`mod-001-python-fundamentals/`**: Basics of Python, virtual environments, data structures, and ML workflows.
-    *   **`exercise-01-sentiment-classifier/`**: Setting up Python virtual environments (`venv`), dependency management (`requirements.txt`), configuration templates (`.env.example`), and environment verification scripts (`verify_setup.py`).
-    *   **`exercise-02-data-structures/`**: Core Python data structures (lists, dicts, sets, tuples) applied to dataset manipulation, batch processing, feature tracking, and data leakage checks.
+*   **`lessons/`**: Contains the learning materials and exercises for all 10 modules.
+    *   **`mod-001-python-fundamentals/exercises/`**:
+        *   **`exercise-01-sentiment-classifier/`**: Virtual environment setup, dependencies, configurations, and verification.
+        *   **`exercise-02-data-structures/`**: Custom data structures, batch processors, and a dataset split manager.
+*   **`projects/`**: Original production-grade projects.
+*   **`resources/`**: Cheat sheets, reading lists, and configuration guidelines.
 
 ---
 *Maintained by kallisaysra1.*
